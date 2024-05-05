@@ -1,0 +1,4 @@
+
+1. Clone repo
+2. run `git worktree add test`
+3. run `npx jest`
